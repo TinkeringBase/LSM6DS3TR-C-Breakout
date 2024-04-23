@@ -12,4 +12,4 @@ Current consumption: around 0.9mA at performance mode \
 for more information, see [techdata](https://www.st.com/en/mems-and-sensors/lsm6ds3tr-c.html)
 
 ## I2C address
-the module uses I2C address 0b1101000 (0x6A) by default. to change it to 0b1101001 (0x6B), solder the jumper at the back side of the module.
+the module uses I2C address 0b1101001 (0x6B) by default. to change it to 0b1101000 (0x6A), solder the jumper at the back side of the module.

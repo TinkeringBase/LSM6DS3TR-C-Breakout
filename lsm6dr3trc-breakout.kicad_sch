@@ -4279,7 +4279,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "lsm6dr3trc-breakout:CONN-SMD_AFC10-S04QCA-00"
+		(property "Footprint" "qwiic:CONN-SMD_AFC10-S04QCA-00"
 			(at 189.23 88.9 0)
 			(effects
 				(font
@@ -4698,7 +4698,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "lsm6dr3trc-breakout:CONN-SMD_AFC10-S04QCA-00"
+		(property "Footprint" "qwiic:CONN-SMD_AFC10-S04QCA-00"
 			(at 189.23 63.5 0)
 			(effects
 				(font

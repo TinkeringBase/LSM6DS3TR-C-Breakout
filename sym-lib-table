@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "lsm6dr3trc-breakout")(type "KiCad")(uri "${KIPRJMOD}/lib/lsm6dr3trc-breakout.kicad_sym")(options "")(descr ""))
+  (lib (name "qwiic")(type "KiCad")(uri "${KIPRJMOD}/lib/qwiic.kicad_sym")(options "")(descr ""))
 )

@@ -12,4 +12,4 @@ Current consumption: around 0.9mA at performance mode \
 자세한 내용은 [기술 데이터](https://www.st.com/en/mems-and-sensors/lsm6ds3tr-c.html)를 참조하세요.
 
 ## I2C 주소
-모듈은 기본적으로 I2C 주소 0b1101000(0x6A)을 사용합니다. 0b1101001(0x6B)로 변경하려면 모듈 뒷면의 점퍼를 납땜하세요.
+모듈은 기본적으로 I2C 주소 0b1101001(0x6B)을 사용합니다. 0b1101000(0x6A)로 변경하려면 모듈 뒷면의 점퍼를 납땜하세요.
