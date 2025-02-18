@@ -1,6 +1,6 @@
-[한국어](https://github.com/TinkeringBase/ICM42688/LSM6DS3TR-C-Breakout/blob/main/readme-ko.md)
-# TinkeringBase/ICM42688 LSM6DS3TR-C IMU breakout
-![preview](https://github.com/TinkeringBase/ICM42688/LSM6DS3TR-C-Breakout/blob/main/3dpreview.jpg?raw=true)\
+[한국어](https://github.com/TinkeringBase/LSM6DS3TR-C-Breakout/blob/main/readme-ko.md)
+# TinkeringBase LSM6DS3TR-C IMU breakout
+![preview](https://github.com/TinkeringBase/LSM6DS3TR-C-Breakout/blob/main/3dpreview.jpg?raw=true)\
 Sensor breakout using ST's LSM6DS3TR-C 6DoF IMU, supports Sparkfun Qwiic system.\
 While it has low price tag, it provides acceptable performance. So we recommend as entry-level IMU.
 
