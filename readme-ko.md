@@ -1,6 +1,6 @@
-[English](https://github.com/FTIndustries/LSM6DS3TR-C-Breakout/blob/main/readme.md)
-# FTIndustries BMI270 IMU breakout
-![미리보기](https://github.com/FTIndustries/LSM6DS3TR-C-Breakout/blob/main/3dpreview.jpg?raw=true)\
+[English](https://github.com/TinkeringBase/LSM6DS3TR-C-Breakout/blob/main/readme.md)
+# TinkeringBase BMI270 IMU breakout
+![미리보기](https://github.com/TinkeringBase/LSM6DS3TR-C-Breakout/blob/main/3dpreview.jpg?raw=true)\
 ST의 LSM6DS3TR-C 6DoF IMU를 사용한 센서 브레이크아웃 모듈입니다. Sparkfun Qwiic 시스템을 지원합니다.\
 낮은 가격에 쓸만한 성능을 낼 수 있어, 보급형 모듈로 추천합니다.
 
